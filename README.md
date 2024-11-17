@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @nav-codestars
-- 👀 I’m interested in Android development and 3d modelling
-- 🌱 I’m currently learning Blender and Jetpack Compose
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Android development
+- 📫 How to reach me ...v.navneeth2006@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: 
 
 <!---
 nav-codestars/nav-codestars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
